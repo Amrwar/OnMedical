@@ -35,7 +35,8 @@
       "Bash(cp \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\Barry-TBI Couch certification 2006.png\" \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\ON Medical\\\\public\\\\certificates\\\\jbh-2007.png\")",
       "Bash(cp \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\NPIC-2009 certification.png\" \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\ON Medical\\\\public\\\\certificates\\\\npic-2009.png\")",
       "Bash(grep -n '\"\"getInTouch\"\"' messages/ar.json messages/nl.json messages/zh.json)",
-      "Bash(grep -n \"Kimal Int\" app/[locale]/certifications/page.tsx)"
+      "Bash(grep -n \"Kimal Int\" app/[locale]/certifications/page.tsx)",
+      "Bash(node -e \"const p = require\\(''./node_modules/next-intl/package.json''\\); console.log\\(p.version\\)\")"
     ]
   }
 }
