@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(cd:*)",
+      "Bash(gh run:*)",
+      "Bash(cp \"C:/Users/hefny/Downloads/Kalrity.png\" \"C:/Users/hefny/Downloads/Projects/ON Medical/public/logo-klarity.png\")",
+      "Bash(cp \"C:/Users/hefny/Downloads/Ashland always solving.png\" \"C:/Users/hefny/Downloads/Projects/ON Medical/public/logo-ashland.png\")",
+      "Bash(cp \"C:/Users/hefny/Downloads/Projects/PTW logo.png\" \"C:/Users/hefny/Downloads/Projects/ON Medical/public/logo-ptw.png\")",
+      "Bash(node -e \":*)",
+      "Bash(grep -i -E \"\\\\.\\(jpg|jpeg|png|webp\\)$\")",
+      "Bash(find C:/Users/hefny/Downloads -maxdepth 2 -name *.jpg -newer 'C:/Users/hefny/Downloads/Projects/ON Medical/public/logo-onmedical.png')",
+      "Bash(cp \"C:/Users/hefny/Downloads/favicon_io \\(1\\)/favicon.ico\" \"C:/Users/hefny/Downloads/Projects/ON Medical/public/\")",
+      "Bash(cp \"C:/Users/hefny/Downloads/favicon_io \\(1\\)/favicon-16x16.png\" \"C:/Users/hefny/Downloads/Projects/ON Medical/public/\")",
+      "Bash(cp \"C:/Users/hefny/Downloads/favicon_io \\(1\\)/favicon-32x32.png\" \"C:/Users/hefny/Downloads/Projects/ON Medical/public/\")",
+      "Bash(cp \"C:/Users/hefny/Downloads/favicon_io \\(1\\)/apple-touch-icon.png\" \"C:/Users/hefny/Downloads/Projects/ON Medical/public/\")",
+      "Bash(cp \"C:/Users/hefny/Downloads/favicon_io \\(1\\)/android-chrome-192x192.png\" \"C:/Users/hefny/Downloads/Projects/ON Medical/public/\")",
+      "Bash(node -e \"require\\(''next-intl''\\); console.log\\(''next-intl ok''\\)\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\ON Medical\\\\app\\\\[locale]\\\\about\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\ON Medical\\\\app\\\\[locale]\\\\services\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\ON Medical\\\\app\\\\[locale]\\\\partners\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\ON Medical\\\\app\\\\[locale]\\\\contact\")",
+      "Bash(ls:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npx next:*)"
+    ]
+  }
+}
