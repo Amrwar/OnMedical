@@ -23,7 +23,19 @@
       "Bash(mkdir -p \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\ON Medical\\\\app\\\\[locale]\\\\contact\")",
       "Bash(ls:*)",
       "Bash(npx tsc:*)",
-      "Bash(npx next:*)"
+      "Bash(npx next:*)",
+      "Bash(cp \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\NPIC certificate 2011.png\" \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\ON Medical\\\\public\\\\certificates\\\\npic-2011.png\")",
+      "Bash(cp \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\Hekmedical certificate 2009.png\" \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\ON Medical\\\\public\\\\certificates\\\\hekmedical-2009.png\")",
+      "Bash(cp \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\Prowess USA certificate 2009.png\" \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\ON Medical\\\\public\\\\certificates\\\\prowess-2009.png\")",
+      "Bash(cp \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\Arrow certificate 2008.png\" \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\ON Medical\\\\public\\\\certificates\\\\kimal-2008.png\")",
+      "Bash(cp \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\PTW certificate 2006.png\" \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\ON Medical\\\\public\\\\certificates\\\\ptw-2006.png\")",
+      "Bash(cp \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\OCTAVIUS refresher certificate 2026.png\" \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\ON Medical\\\\public\\\\certificates\\\\octavius-2026.png\")",
+      "Bash(cp \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\BEAMSCAN refresher certificate 2025.png\" \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\ON Medical\\\\public\\\\certificates\\\\beamscan-2025.png\")",
+      "Bash(cp \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\PTW Certificate 2008.png\" \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\ON Medical\\\\public\\\\certificates\\\\ptw-2008.png\")",
+      "Bash(cp \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\Barry-TBI Couch certification 2006.png\" \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\ON Medical\\\\public\\\\certificates\\\\jbh-2007.png\")",
+      "Bash(cp \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\NPIC-2009 certification.png\" \"C:\\\\Users\\\\hefny\\\\Downloads\\\\Projects\\\\ON Medical\\\\public\\\\certificates\\\\npic-2009.png\")",
+      "Bash(grep -n '\"\"getInTouch\"\"' messages/ar.json messages/nl.json messages/zh.json)",
+      "Bash(grep -n \"Kimal Int\" app/[locale]/certifications/page.tsx)"
     ]
   }
 }
