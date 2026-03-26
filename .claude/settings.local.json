@@ -38,7 +38,9 @@
       "Bash(grep -n \"Kimal Int\" app/[locale]/certifications/page.tsx)",
       "Bash(node -e \"const p = require\\(''./node_modules/next-intl/package.json''\\); console.log\\(p.version\\)\")",
       "Bash(grep -n \"maps.google.com\" app/[locale]/contact/page.tsx components/layout/Footer.tsx)",
-      "Bash(grep -n \"Klarity UNO\\\\|Replace with official Klarity\" app/[locale]/partners/page.tsx)"
+      "Bash(grep -n \"Klarity UNO\\\\|Replace with official Klarity\" app/[locale]/partners/page.tsx)",
+      "Bash(grep -n \"Sorted newest\\\\|subtitle=\" app/[locale]/certifications/page.tsx)",
+      "Bash(grep -n '\"\"p5\"\"' messages/en.json messages/nl.json messages/zh.json)"
     ]
   }
 }
